@@ -1,2 +1,2 @@
 # Parsing an Openapi Spec File
-A Microsoft Visual Studio project demonstrating parsing an OpenAPI spec file.
+A Microsoft C# .NET Visual Studio Winforms project demonstrating parsing an OpenAPI spec file.
